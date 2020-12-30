@@ -9,4 +9,4 @@
 ### Middle sensor is for speed, other sensors are for direction
 ![image3](https://github.com/cankaplanxo/Autonomous_Car_Final_Project/blob/main/Simulation_Photos/3.PNG)
 
-!image[image4](https://github.com/cankaplanxo/Autonomous_Car_Final_Project/blob/main/Simulation_Photos/4.PNG)
+![image4](https://github.com/cankaplanxo/Autonomous_Car_Final_Project/blob/main/Simulation_Photos/4.PNG)
